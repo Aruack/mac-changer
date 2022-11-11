@@ -31,7 +31,7 @@ git clone https://github.com/aruack/mac-changer
 cd mac-changer
 ```
 ```
-python3 mac.py --help 
+python mac.py --help 
 ```
 
 ### Owner
